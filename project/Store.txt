@@ -1,0 +1,2 @@
+{"name": "sari", "tz": "111111111", "password": "1234", "count_play": 1, "words": "Israeli", "count_win": 0}
+{"name": "avigail", "tz": "329211734", "password": "6009", "count_play": 23, "words": "java js nodejs pyton html SimanTov sql Chedvi Avigail react", "count_win": 10}
