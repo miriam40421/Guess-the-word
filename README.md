@@ -64,8 +64,8 @@ guess_word_game/
    ```bash
    python game.py
    ```
-3. (If applicable – for server/client version):
-   ```bash
+
+3.  ```bash
    python server.py
    python client.py
    ```
